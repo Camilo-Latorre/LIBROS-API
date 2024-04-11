@@ -1,0 +1,2 @@
+2024-04-11 02:55:51 [GET] [/libros?filtro=Harry%20Potter%20y%20la%20piedra%20filosofal] [{"filtro":"Harry Potter y la piedra filosofal"}] [{}] [::1]
+2024-04-11 03:00:40 [POST] [/libros] [{}] [{"Nombre":"Harry Potter y la camara de los secretos","Autor":"J.K Rowling","Año_lanzamiento":"26 de junio de 1999","Premios":"Si","Nacionalidad_Autor":"Britanica","Genero":"Fantasia","Paginas_Libro":251}] [::1]
